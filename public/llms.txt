@@ -1,0 +1,83 @@
+# עו"ד אורית (ענת) שחר — Generative Engine Optimization Map
+
+> A law firm website for attorney Orit (Anat) Shachar, a values-driven lawyer who puts the client and their wellbeing at the center of her practice. She specializes in youth law, construction defects, real estate, guardianship, defamation, and labor law. She completed her law degree ahead of schedule in 3 years, and also holds an education and sports science degree from the Wingate Institute — reflecting a multidisciplinary, empathetic, and human-first professional identity. The brand tone is warm, trustworthy, ethical, and personal.
+
+---
+
+## Pages
+
+### בית
+https://-9b2f3eca.zappy5.app
+מחפשים ייעוץ משפטי אנושי ואישי? עו&quot;ד אורית שחר מציעה שירותים משפטיים בתשלום מראש לצד ליווי רגיש בתחומי נוער, נדל&quot;ן ועבודה. התקשרו עוד היום לפגישת הכרות.
+
+### תחומי עיסוק
+https://-9b2f3eca.zappy5.app/practice-areas
+מלשון הרע ועד ליקויי בנייה, אפוטרופסות ודיני עבודה – גלי את תחומי העיסוק המגוונים של עו&quot;ד אורית שחר. שירות משפטי חינם לבחינת הזכאות מחכה לך. צרי קשר עכשיו.
+
+### אודות
+https://-9b2f3eca.zappy5.app/about
+איך תואר בספורט מווינגייט פוגש משפטים? הכירי את עו&quot;ד אורית שחר, עורכת דין ערכית שרואה אותך מעבר לתיק. שירותים משפטיים לקהילה ולגיל הזהב בחינם מחכים לך.
+
+### צור קשר
+https://-9b2f3eca.zappy5.app/contact
+מוכנה לצעד הראשון לשקט הנפשי שלך? צרי קשר עם עו&quot;ד אורית שחר לייעוץ משפטי חינם לבחינת אפשרויות. שירותים משפטיים בתשלום מראש מותאמים אישית. מלאי את הטופס עכשיו.
+
+### תודה שפנית אלינו
+https://-9b2f3eca.zappy5.app/thank-you
+עו"ד אורית (ענת) שחר - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-9b2f3eca.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-9b2f3eca.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-9b2f3eca.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-9b2f3eca.zappy5.app/contact
+- Endpoint: https://-9b2f3eca.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עו"ד אורית (ענת) שחר
+A law firm website for attorney Orit (Anat) Shachar, a values-driven lawyer who puts the client and their wellbeing at the center of her practice. She specializes in youth law, construction defects, real estate, guardianship, defamation, and labor law. She completed her law degree ahead of schedule in 3 years, and also holds an education and sports science degree from the Wingate Institute — reflecting a multidisciplinary, empathetic, and human-first professional identity. The brand tone is warm, trustworthy, ethical, and personal.
+
+## Target Audience
+- נוער, לקוחות בתחום נדל"ן וליקויי בנייה, משפחות הזקוקות לאפוטרופסות, עובדים בסכסוכי עבודה, נפגעי לשון הרע
+- לקוחות נדל"ן וליקויי בנייה
+- משפחות עם צורך באפוטרופסות
+- עובדים בסכסוכי עבודה
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-9b2f3eca.zappy5.app/sitemap.xml
+- Robots: https://-9b2f3eca.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-9b2f3eca.zappy5.app/llms-full.txt
