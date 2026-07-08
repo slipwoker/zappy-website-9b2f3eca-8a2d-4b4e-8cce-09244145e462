@@ -47,7 +47,7 @@ Information about WCAG compliance and accessibility features.
 - Email: orits1977@gmail.com
 - Phone: 0556610567
 - Phone (tel): tel:0556610567
-- Address: תל אביב והמרכז,דרום, Israel
+- Address: מרכז, תל אביב דרום, תל אביב והמרכז,דרום, Israel
 
 ### Contact form
 - URL: https://example.com/contact
