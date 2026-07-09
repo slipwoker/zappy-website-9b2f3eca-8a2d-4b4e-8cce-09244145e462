@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://orit-anat-shachar-law-office.zappy5.app
 מחפשים ייעוץ משפטי אנושי ואישי? עו&quot;ד אורית שחר מציעה שירותים משפטיים בתשלום מראש לצד ליווי רגיש בתחומי נוער, נדל&quot;ן ועבודה. התקשרו עוד היום לפגישת הכרות.
 
 ### תחומי עיסוק
-https://example.com/practice-areas
+https://orit-anat-shachar-law-office.zappy5.app/practice-areas
 מלשון הרע ועד ליקויי בנייה, אפוטרופסות ודיני עבודה – גלי את תחומי העיסוק המגוונים של עו&quot;ד אורית שחר. שירות משפטי חינם לבחינת הזכאות מחכה לך. צרי קשר עכשיו.
 
 ### אודות
-https://example.com/about
+https://orit-anat-shachar-law-office.zappy5.app/about
 איך תואר בספורט מווינגייט פוגש משפטים? הכירי את עו&quot;ד אורית שחר, עורכת דין ערכית שרואה אותך מעבר לתיק. שירותים משפטיים לקהילה ולגיל הזהב בחינם מחכים לך.
 
 ### צור קשר
-https://example.com/contact
+https://orit-anat-shachar-law-office.zappy5.app/contact
 מוכנה לצעד הראשון לשקט הנפשי שלך? צרי קשר עם עו&quot;ד אורית שחר לייעוץ משפטי חינם לבחינת אפשרויות. שירותים משפטיים בתשלום מראש מותאמים אישית. מלאי את הטופס עכשיו.
 
 ### תודה שפנית אלינו
-https://example.com/thank-you
+https://orit-anat-shachar-law-office.zappy5.app/thank-you
 עו"ד אורית (ענת) שחר - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://orit-anat-shachar-law-office.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://orit-anat-shachar-law-office.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://orit-anat-shachar-law-office.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -50,8 +50,8 @@ Information about WCAG compliance and accessibility features.
 - Address: מרכז, תל אביב דרום, תל אביב והמרכז,דרום, מרכז, תל אביב, דרום, Israel
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://orit-anat-shachar-law-office.zappy5.app/contact
+- Endpoint: https://orit-anat-shachar-law-office.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Legal Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://orit-anat-shachar-law-office.zappy5.app/sitemap.xml
+- Robots: https://orit-anat-shachar-law-office.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://orit-anat-shachar-law-office.zappy5.app/llms-full.txt
